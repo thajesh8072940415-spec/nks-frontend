@@ -1,6 +1,7 @@
 {
   "name": "nks-billing-frontend",
   "version": "1.0.0",
+  "type": "module",
   "description": "New Krishna Sweets - Frontend | Powered by Sai Shuru Nexus",
   "scripts": {
     "dev":     "vite",
